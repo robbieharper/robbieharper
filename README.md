@@ -8,7 +8,7 @@ Fix ownership of repos
 <p align="center">
   <a href="https://www.instagram.com/rrmharp/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/MTvcMV0.jpeg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/dheereshagrwal/colored-icons/blob/f926a9cacef437021842aa53029d1b73fb03de15/svg/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

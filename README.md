@@ -6,15 +6,8 @@ Fix ownership of repos
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/rrmharp/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/MTvcMV0.jpeg"/></a>
+  <a href="https://www.instagram.com/rrmharp/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/dheereshagrwal/colored-icons/blob/f926a9cacef437021842aa53029d1b73fb03de15/svg/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/dheereshagrwal/colored-icons/blob/f926a9cacef437021842aa53029d1b73fb03de15/svg/instagram.svg"/></a>
+  <a href="www.linkedin.com/in/rileymharper"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/dheereshagrwal/colored-icons/blob/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>

@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmharp&label=Profile%20views&color=2f80ed&style=flat" alt="rmharp" /> </p>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&size_weight=0.5&count_weight=0.5&layout=compact) <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rmharp)
 
 <!-- Social icons section -->

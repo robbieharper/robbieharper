@@ -12,7 +12,7 @@ Fix ownership of repos
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmharp&label=Profile%20views&color=ffffff&style=flat" alt="rmharp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmharp&label=Profile%20views&color=A9A9A9&style=flat" alt="rmharp" /> </p>
 <p align="center">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rmharp?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/rmharp?tab=followers">

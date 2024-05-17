@@ -1,8 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmharp&label=Profile%20views&color=2f80ed&style=flat" alt="rmharp" /> </p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rmharp)
-<!-- 
-Fix ownership of repos
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&size_weight=0.5&count_weight=0.5&layout=compact)
--- !>
 
 <!-- Social icons section -->
 <p align="center">
@@ -12,7 +9,7 @@ Fix ownership of repos
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmharp&label=Profile%20views&color=2f80ed&style=flat" alt="rmharp" /> </p>
+
 <p align="center">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rmharp?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/rmharp?tab=followers">

@@ -8,8 +8,16 @@
   </picture>
 </p>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight) <br/>
-![Github stats](https://github-readme-stats.vercel.app/api?username=rmharp&theme=tokyonight)
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=transparent">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=transparent">
+    </picture>
+</div>
 
 <!-- Social icons section -->
 <p align="center">

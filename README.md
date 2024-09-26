@@ -10,7 +10,7 @@
 
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight">
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=transparent">
     </picture>
     <picture>
@@ -18,7 +18,7 @@
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=transparent">
     </picture>
 </div>
-
+<br>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.instagram.com/rrmharp/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/dheereshagrwal/colored-icons/blob/f926a9cacef437021842aa53029d1b73fb03de15/svg/instagram.svg"/></a>

@@ -4,7 +4,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=3000&pause=500&center=true&random=true&width=1000&lines=Statistics%2C+Computer+Science%2C+Applied+Mathematics;Artificial+Intelligence;Machine+Learning;Research;UNC-Chapel+Hill+Student;Self+Taught+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&duration=3000&pause=500&center=true&random=true&width=1000&lines=Statistics%2C+Computer+Science%2C+Applied+Mathematics;Artificial+Intelligence;Machine+Learning;Research;UNC-Chapel+Hill+Student;Self+Taught+Developer" alt="Typing SVG" />
   </picture>
 </p>
 

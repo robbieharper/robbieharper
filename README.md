@@ -25,3 +25,12 @@
   <a href="https://github.com/rmharp?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rmharp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+<br>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rmharp&theme=tokyonight&row=2">
+      <img alt="Stats" src="https://github-profile-trophy.vercel.app/?username=rmharp&theme=flat&row=2">
+    </picture>
+  </div>
+<br>

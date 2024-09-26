@@ -29,8 +29,8 @@
 <br>
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rmharp/github-profile-trophy">
-      <img alt="Stats" src="https://github.com/rmharp/github-profile-trophy">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rmharp">
+      <img alt="Stats" src="https://github-profile-trophy.vercel.app/?username=rmharp">
     </picture>
   </div>
 <br>

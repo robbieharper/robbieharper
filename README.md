@@ -1,5 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmharp&label=Profile%20views&color=2f80ed&style=flat" alt="rmharp" /> </p>
 
+<h1 align="center"><b>Hi , I'm Riley Harper </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=3000&pause=500&center=true&random=true&width=435&lines=Statistics%2C+Computer+Science%2C+Applied+Mathematics;Artificial+Intelligence;Machine+Learning;Research;UNC-Chapel+Hill+Student;Self+Taught+Developer)](https://git.io/typing-svg)
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&size_weight=0.5&count_weight=0.5&layout=compact) <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rmharp)
 

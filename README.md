@@ -10,7 +10,7 @@
 
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=tokyonight">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight">
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=transparent">
     </picture>
     <picture>

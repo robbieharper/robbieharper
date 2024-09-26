@@ -11,11 +11,11 @@
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=transparent">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=transparent">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=HTML">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=HTML">
     </picture>
 </div>
 <br>

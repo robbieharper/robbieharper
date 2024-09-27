@@ -9,14 +9,18 @@
 </p>
 
 <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight" style="height: 195px;">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=html,css">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=html,css" style="height: 195px;">
-    </picture>
+  <div style="display: inline-block; height: 200px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight">
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rmharp&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight" style="height: 195px;">
+      </picture>
+  </div>
+  <div style="display: inline-block; height: 200px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=html,css">
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmharp&layout=compact&langs_count=10&theme=tokyonight&hide=html,css" style="height: 195px;">
+      </picture>
+  </div>
 </div>
 <br>
 <!-- Social icons section -->

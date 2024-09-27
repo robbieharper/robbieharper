@@ -37,8 +37,8 @@
 <br>
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rmharp&theme=tokyonight&exclude=Reviews">
-      <img alt="Stats" src="https://github-profile-trophy.vercel.app/?username=rmharp&theme=tokyonight&exclude=Reviews">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rmharp&theme=tokyonight&title=-Reviews">
+      <img alt="Stats" src="https://github-profile-trophy.vercel.app/?username=rmharp&theme=tokyonight&title=-Reviews">
     </picture>
   </div>
 <br>

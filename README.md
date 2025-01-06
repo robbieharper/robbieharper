@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmharp&label=Profile%20views&color=2f80ed&style=flat" alt="rmharp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmharp&label=Profile%20views&color=2f80ed&style=flat" alt="robbieharper" /> </p>
 
-<h1 align="center"><b>Hi , I'm Riley Harper </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Robbie Harper </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <picture>
